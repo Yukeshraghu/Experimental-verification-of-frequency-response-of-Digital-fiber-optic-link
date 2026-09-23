@@ -72,7 +72,8 @@ Fiber optic links can be used for transmission of both digital and analog signal
 
 ## TABULATION
 
-<img width="1307" height="1118" alt="image" src="https://github.com/user-attachments/assets/87c876cc-489c-4351-89d1-9fa1d8aad708" />
+<img width="995" height="1600" alt="image" src="https://github.com/user-attachments/assets/2282b0b6-7c82-4fb5-9c54-2f5c2c8bf919" />
+
 
 ---
 
